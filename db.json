@@ -1,29 +1,20 @@
 {
   "best-products": [
     {
-      "id": 1,
-      "kode": "K-01",
-      "nama": "Sate Ayam",
-      "harga": 16000,
-      "is_ready": true,
-      "gambar": "sate-ayam.jpg"
-    },
-    {
-      "id": 2,
-      "kode": "K-02",
-      "nama": "Nasi Goreng Telur",
-      "harga": 14000,
-      "is_ready": true,
-      "gambar": "nasi-goreng-telor.jpg"
-    },
-    {
-      "id": 3,
-      "kode": "K-03",
-      "nama": "Nasi Rames",
-      "harga": 12000,
-      "is_ready": true,
-      "gambar": "nasi-rames.jpg"
-    }
+            "id": "0pFuWOOC32OAojbfTXUh",
+            "name": "Nike Air Force LV8",
+            "category": "Men's Shoes",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4f5f6717-8099-48a3-beff-d2eacfbecb5c/air-force-1-07-lv8-shoes-g2c8Rd.png",
+            "price": 1909000
+        },
+        {
+            "id": "64SmutHR1dFG8L4C04wM",
+            "name": "Nike Air Max 90",
+            "category": "Men's Shoes",
+            "price": 1990000,
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/fb3b8a7c-f830-4f78-a529-291bd316f880/air-max-90-shoes-98F148.png"
+        }
+    ]
   ],
   "products": [
     {
