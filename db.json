@@ -1,7 +1,7 @@
 {
-    "status": true,
-    "statusCode": 200,
     "data": [
+        "status": true,
+        "statusCode": 200,
         {
             "id": "0pFuWOOC32OAojbfTXUh",
             "price": 1909000,
@@ -16,6 +16,5 @@
             "category": "Men's Shoes",
             "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/fb3b8a7c-f830-4f78-a529-291bd316f880/air-max-90-shoes-98F148.png"
         }
-    ],
-    "kiki": 123
+    ]
 }
